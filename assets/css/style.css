@@ -25,7 +25,7 @@ header {
      background-color:var(--maincolor);
 }
 .nav-link {
-    color: #000 !important;
+    color: var(--mainColor) !important;
     margin: 0px 10px;
     font-style: normal;
     font-weight: 500;
@@ -47,7 +47,7 @@ header {
 .banner_hed {
     font-weight: 500;
     font-size: 70px;
-    color:var(--mainVColor);
+    color: var(--mainColor);
 }
 .banner_para1 {
     font-weight: 400;
